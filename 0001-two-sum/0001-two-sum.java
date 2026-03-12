@@ -1,13 +1,45 @@
+import java.util.*;
+
 class Solution {
+
+    static class Pair {
+        int value;
+        int index;
+
+        Pair(int v, int i) {
+            value = v;
+            index = i;
+        }
+    }
+
     public int[] twoSum(int[] nums, int target) {
-      for(int i=0;i<nums.length;i++){
-        for(int j=i+1;j<nums.length;j++){
-            if(nums[i]+nums[j]==target){
-                return new int[]{i,j};
+
+        Pair[] arr = new Pair[nums.length];
+
+        for (int i = 0; i < nums.length; i++) {
+            arr[i] = new Pair(nums[i], i);
+        }
+
+        Arrays.sort(arr, (a, b) -> a.value - b.value);
+
+        int left = 0;
+        int right = arr.length - 1;
+
+        while (left < right) {
+
+            int sum = arr[left].value + arr[right].value;
+
+            if (sum == target) {
+                return new int[]{arr[left].index, arr[right].index};
+            }
+            else if (sum < target) {
+                left++;
+            }
+            else {
+                right--;
             }
         }
-      }
-      return new int[]{-1,-1};
+
+        return new int[]{};
     }
 }
-      
