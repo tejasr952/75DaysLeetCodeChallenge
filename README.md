@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/tejasr952/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
